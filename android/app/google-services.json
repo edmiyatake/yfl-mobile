@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466945831786",
+    "project_id": "yfl-mobile",
+    "storage_bucket": "yfl-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466945831786:android:feee78dfae4b93f3502b13",
+        "android_client_info": {
+          "package_name": "com.example.yfl_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzQEzsCu--ayBWtPwzNRbp11xnQkFW5nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
